@@ -21,11 +21,11 @@ But it must have the following features:
 6. Read about the text-transform property on MDN docs to make the h1 uppercase with CSS.
   https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform
 
-Completed The Motivational Project Website.
-I have changed attributes of certain elements. Also have used different font and div sizes than specified in the guidelines. 
-The fonts used for <h1> are Playfair and not Baskervilles...  https://fonts.google.com/specimen/Playfair,
-to center the image I have set margin-left and margin-right to auto,
-to center the div quote I have set margin-left and margin-right to 10%,
-I changed the back color to match the image color. So no black as a background color.,
-also, to match the asthetics of the image, I have used a different color for border.,
-the quote below is Mea Culpa https://fonts.google.com/specimen/Mea+Culpa
+## Completed The Motivational Project Website.
+- I have changed attributes of certain elements. Also have used different font and div sizes than specified in the guidelines. 
+- The fonts used for <h1> are Playfair and not Baskervilles...  https://fonts.google.com/specimen/Playfair,
+- to center the image I have set margin-left and margin-right to auto,
+- to center the div quote I have set margin-left and margin-right to 10%,
+- I changed the back color to match the image color. So no black as a background color.,
+- also, to match the asthetics of the image, I have used a different color for border.,
+- the quote below is Mea Culpa https://fonts.google.com/specimen/Mea+Culpa
